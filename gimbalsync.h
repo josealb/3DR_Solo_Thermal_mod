@@ -1,0 +1,1 @@
+python /home/root/scripts/syncGimbalwithThermal.py &
